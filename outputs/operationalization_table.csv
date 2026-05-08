@@ -1,0 +1,10 @@
+Indicator,Meta,TikTok,YouTube,X,Snapchat
+Names specific algorithmic feature(s),Partial,Partial,Yes,No,Yes
+States what data inputs feed the algorithm,Yes,Partial,Yes,Partial,Yes
+States what outcome the algorithm optimizes for,No,No,Partial,No,Partial
+Uses the word 'algorithm' explicitly,No,Yes,Yes,No,Yes
+Acknowledges ML/AI model training on user data,Partial,Yes,Partial,Yes,Yes
+Discloses behavioral profiling for ad targeting,Yes,Partial,Yes,No,Partial
+Provides algorithmic opt-out mechanism,Partial,No,Yes,No,Partial
+Cross-platform data used for algorithmic targeting,Yes,Partial,Yes,Partial,Partial
+Defines algorithmic terms in the policy,No,No,Yes,No,Partial

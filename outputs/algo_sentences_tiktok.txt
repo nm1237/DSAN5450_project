@@ -1,0 +1,30 @@
+=== TIKTOK — Sentences containing algorithmic language ===
+
+1. information you provide when you create an account, upload content, contact us directly, or otherwise use the services, you may provide some or all of the following information: account information, such as date of birth, username, password, email, phone number, and profile image
+
+2. we may collect user content through pre-uploading at the time of creation, import, or upload, regardless of whether you choose to save or publish that user content, for example, to recommend audio options, provide an effect, generate captions, and provide other personalized recommendations
+
+3. automatically collected information we automatically collect certain information from you when you use the services, including: usage information, including information regarding your use of the services, such as information about how you interact with content and ads, the duration and frequency of your use of the services, and your engagement with other users
+
+4. we may collect this information to enable special video effects, for content moderation, for demographic classification, for content and ad recommendations, and for other non-personally-identifying operations
+
+5. information from other sources we may receive the information described in this privacy policy from other sources, such as: if you choose to sign up or log in to the services using, or link your tiktok account to, a third-party service, we may collect information from the third-party service, such as your public profile information and email
+
+6. to review, support, improve, and develop the services, and train, test, and improve technology, such as machine learning models and algorithms, including by analyzing how people are using the services; conducting research; soliciting feedback; monitoring your activity and usage across the devices you use to access the services; and scanning, analyzing, and reviewing user content, messages, ai interactions, and associated metadata
+
+7. to personalize and customize certain features and content, such as providing your âfor youâ feed and content creation tools
+
+8. to support the social functions of the services, including to permit you and others to connect with each other (for example, through our find friends function), to suggest accounts to you and suggest your account to others, and for you and others to share, download, and otherwise interact with user content
+
+9. to infer additional information about you, such as your age, gender, and interests
+
+10. profiling: we do not engage in profiling which results in legal or similarly significant effects, as defined under applicable law
+
+11. how we share your information we are committed to maintaining your trust, and while we do not sell your personal information or share your personal information with third parties for purposes of cross-context behavioral advertising where restricted by applicable law, we want you to understand when and with whom we may share the information we collect for the purposes described below
+
+12. users of our analytics services, who may receive aggregated statistics and insights to understand user engagement
+
+13. you can learn about privacy settings, including how to limit the audience for your videos, here
+
+14. we recommend that you review this privacy policy regularly to stay informed of our privacy practices
+

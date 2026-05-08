@@ -1,0 +1,120 @@
+=== META — Sentences containing algorithmic language ===
+
+1. this helps [1] you use meta products in the way that’s right for you
+
+2. we collect: the information you give us when you sign up for our products and create a profile, like your email address, phone number or age what you do on our products
+
+3. for example, we collect different information if you sell furniture on marketplace than if you ask ai at meta to write a joke for you
+
+4. information we collect or infer about you based on others’ activity we collect information about you based on others' activity
+
+5. we also infer things about you based on others' activity
+
+6. you might choose to add other details to your account, like a profile photo or pay‐ ment information
+
+7. com/privacy/policy/printable/version/25862970456621906/ 12/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data actions you ask ai at meta to take, like customizing the content or ads you see feedback you give to ai at meta about its responses 9 apps and features you use, and how you use them for example, we log: what apps, posts, videos, ads, games, shops and other content you view or interact with on our products what features you access from our messaging products when you use social plugins, facebook login, in-app browser link history or autofill information about websites that you visit or interact with when you use our in-app browser
+
+8. com/privacy/policy/printable/version/25862970456621906/ 13/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data groups, or use other meta checkout experiences, we collect information about your purchase or other financial transactions, like: credit or debit card number and other financial account information billing, shipping and contact details items you bought and how many other account and authentication information why we collect this information we collect and store this information to facilitate your purchase, receipt of pay‐ ments and other financial transactions, to personalize your experience on our products, for advertising and to allow you to access and view your payment and transaction history, where available
+
+9. they help us provide, protect and im‐ prove our products, such as by personalizing content, tailoring and measuring ads and providing a safer experience
+
+10. com/privacy/policy/printable/version/25862970456621906/ 19/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data what happens if you don’t let us collect certain information for example, if you don’t provide your email address, phone number or age, we won’t be able to create an account for you to use our products
+
+11. highlights here are some of the ways we use your information: we personalize your experience, like by suggesting reels to watch, commu‐ nities to join, or providing more relevant responses from ai at meta we improve our products by applying information about what you use them to do, and what else is happening on your device when our app crashes we work to prevent harmful behavior and keep people safe on our products we send you messages about the products you use or ones you might like, if you let us https://mbasic
+
+12. com/privacy/policy/printable/version/25862970456621906/ 20/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data we research for the good of people around the world, like to advance tech‐ nology or to help out in a crisis we use information we collect to provide a personalized experience to you, includ‐ ing ads, along with the other purposes we explain in detail below
+
+13. here are the ways we use your information: to provide, personalize and improve our products [29] we use information we have to provide and improve our products
+
+14. this includes: seeing if our products are working correctly, such as troubleshooting, and fixing it when it’s not working personalizing features, content and recommendations, such as your facebook feed, instagram feed, ai at meta, stories and ads
+
+15. read more about how we use information to provide, personalize and improve our products: how we show ads and other sponsored or commercial content when you use our products, you see ads and sponsored or commercial con‐ tent, like product listings in shops
+
+16. meta personalizes your ads on and across meta company products
+
+17. to decide what to show you and others, we use information we have about you, including: your profile information your activity on and off our products, including information we receive through cookies and similar technologies, according to your settings content you create or interact with across facebook and instagram interactions with ai at meta things we infer about you, like topics we think you may be interested in information about your friends, followers or other connections, including their activity or interests [30] see some examples
+
+18. learn more about some of the ways we show you ads that we think may be in‐ teresting to you, including using machine learning
+
+19. ” section of the policy, like: provide, personalize and improve our products, including ads, for you and [33] others
+
+20. learn more to communicate with you we communicate with you using information you've given us, like contact informa‐ tion you've entered on your profile
+
+21. we work with independent researchers to better understand the impact so‐ cial media might have on elections and democratic processes we’ve collaborated with academics and industry experts to help improve in‐ ternet access and quality in rural areas we support research in areas like artificial intelligence and machine learning learn more about our research programs https://mbasic
+
+22. com/privacy/policy/printable/version/25862970456621906/ 26/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data more in the privacy policy why and how we process your information 26 using information across our products we use information across your accounts on our products to: personalize ads for you and others
+
+23. provide more personalized features, content and suggestions across our [38] products
+
+24. more accurately count people and understand how they use our products help keep you and others safe
+
+25. com/privacy/policy/printable/version/25862970456621906/ 27/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data manage accounts 27 why we use information across devices [40] one reason we use your information across devices is to help us give you a more personalized experience
+
+26. when our algorithms detect that someone might need help, a reviewer can review their post and offer support if needed
+
+27. we also use manual review to analyze content to train our algorithms to re‐ view content the same way a person would
+
+28. 33 personalizing ads for you and others https://mbasic
+
+29. 37 third party a person, business, organization or body that is not part of the meta companies 38 providing more personalized features, content and sug‐ gestions across our products for example we can: automatically fill in registration information, like your phone number, from one meta product when you sign up for an account on a different product let others see and search your name and profile photo across our products and communicate with you show all interactions in one place for content you’ve cross-posted to differ‐ ent products 39 using your information if you add accounts to the same accounts center for example, if you follow your favorite team on instagram, we can more easily suggest that you follow that team’s page on facebook
+
+30. when you interact with people or businesses, they can see: what you share with them for example, the audience you choose can see when you: share a post you’ve written share a photo or video create a story share a news article add information to your profile what you communicate with them people you interact with can see what you send to them
+
+31. this can include information like your username, profile picture and if the supervised user blocked you
+
+32. this includes your: name facebook and instagram username profile picture activity on public groups, facebook pages and channels activity on content that is public
+
+33. avatars other content you can choose to set to public, like posts, photos and videos you post to your profile, stories or reels
+
+34. " 43 choosing an audience on facebook, the audience can be made up of: the public, including people on and off facebook your friends and other connections, such as the friends of people you tag a customized list of people yourself the members of a single community, such as a group on instagram, you can set the audience for what you share by choosing be‐ tween a private or public account
+
+35. you can restrict the audience for your content by blocking individual accounts from viewing them
+
+36. sometimes these are provided with the help of our ai integrations actions you ask ai at meta to take, like customizing the content or ads you see feedback you give to ai at meta about its responses 46 search engines you can visit your privacy settings to control whether search engines can show your profile or public photos and videos in search results outside of meta
+
+37. some public content might still be accessible through search engines, for example: if you post with your audience or profile set to public, https://mbasic
+
+38. this information can be used to personalize which of our ads are shown to you
+
+39. com/privacy/policy/printable/version/25862970456621906/ 51/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data subscribing to premium content buying, selling or using products buying, selling or using services donating to charities 56 commerce services platforms commerce services platforms provide a range of commerce services, including: payments marketing shipping customer engagement tools 57 measurement vendor a third party that creates reports to help advertisers understand how their con‐ tent and ads are performing
+
+40. if we use your activity on our products to tailor these ads, you can opt out of this type of use
+
+41. why we share across the meta companies meta products share information with other meta companies: to promote safety, security and integrity and comply with applicable laws to personalize offers, ads and other sponsored or commercial content to develop, provide and personalize features and integrations to understand how people use and interact with meta company products [62] see some examples of why we share
+
+42. if we use your activity on our products to tailor these ads, you can opt out of this type of use
+
+43. com/privacy/policy/printable/version/25862970456621906/ 59/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data if we need it to operate or provide our products for example, we keep profile information, photos you’ve posted (and not delet‐ ed) and security information for the lifetime of your account
+
+44. attn: privacy operations 1 meta way menlo park, ca 94025 why and how we process your information the categories of information we use, and why and how information is processed, are set out below: personalizing meta products why and how we process your information: [86] personalizing the meta products : our systems automatically process infor‐ mation we've collected and stored associated with you and others to assess and understand your interests and your preferences and provide you personal‐ ized experiences on and across the meta company products in accordance with our terms
+
+45. this is how we: personalize features and content (such as your facebook feed, instagram feed, ai at meta and stories); personalize the ads people see, and make suggestions for you (such as people you may know, groups or events that you may be interested in or topics that you may want to follow) on and off our products
+
+46. com/privacy/policy/printable/version/25862970456621906/ 72/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data why and how we process your information: providing and improving our meta products: the provision of the meta products includes collecting, storing, and, where relevant, sharing, profiling, re‐ viewing and curating, and in some instances not only automated processing but also manual (human) reviewing, to: create and maintain your account and profile, connect your meta products account, including your public profile informa‐ tion, to an integrated partner to sign in or share your information, facilitate the sharing of content and status, provide and curate features, provide messaging services, the ability to make voice and video calls and connect with others, provide advertising products, understand and enable creation of content like text, audio, images and videos, including through ai at meta, undertake analytics, facilitate your purchases and payments on meta pay or other meta check‐ out experiences, and see if our products are working correctly, such as troubleshooting, and fixing it when it’s not working
+
+47. com/privacy/policy/printable/version/25862970456621906/ 73/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data depends on your factual circumstances, but could include any of the following: your activity and information you provide: content you create, like posts, comments or audio your public profile information (including your name, username and profile picture) content you provide through our camera feature or your camera roll settings, or through our voice-enabled features messages you send and receive, including their content, subject to applica‐ ble law metadata about content and messages, subject to applicable law interactions with ai at meta and related metadata
+
+48. we process information we have associated with you and apply automated processing techniques and, in some instances, conduct manual (hu‐ man) review to: https://mbasic
+
+49. com/privacy/policy/printable/version/25862970456621906/ 76/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data purchases or other transactions you make, including truncated credit card information hashtags you use the time, frequency and duration of your activities on our products your photo or video selfie if you provide it when you contact us for account support friends, followers and other connections app, browser and device information: device characteristics and device software what you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots) identifiers that tell your device apart from other users’ device signals information you’ve shared through your device settings location-related information information about the network you connect your device to, including your ip address information from cookies and similar technologies information from partners, vendors and third parties communicating with you why and how we process your information: to communicate with you: we use information you’ve given us (like contact in‐ formation on your profile) to send you a communication, like an e-mail or in- product notice, for example: we’ll contact you via email or in-product notifications in relation to the meta products, product-related issues, research or to let you know about our terms and policies
+
+50. the actual information we use depends on your factual circumstances, but could include any of the following: your activity and information you provide: contact information on your profile and your communications with us content you create, like posts, comments or audio content you provide through our camera feature or your camera roll settings, or through our voice-enabled features app, browser and device information: device characteristics and device software what you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots) identifiers that tell your device apart from other users’ device signals information you’ve shared through your device settings location-related information information about the network you connect your device to, including your ip address information from cookies and similar technologies
+
+51. com/privacy/policy/printable/version/25862970456621906/ 79/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data device characteristics and device software what you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots) identifiers that tell your device apart from other users’ device signals information you’ve shared through your device settings location-related information information about the network you connect your device to, including your ip address information from cookies and similar technologies information from partners, vendors and third parties processing information with special protections why and how we process your information: processing information subject to special protections under applicable laws that you provide so we can share it with those you choose, to provide, personalize and improve our products and to undertake analytics
+
+52. com/privacy/policy/printable/version/25862970456621906/ 80/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data surveys you choose to participate in, and where you have given your explicit consent using information from third parties for personalizing ads why and how we process your information: receiving and using information from third parties to tailor the ads you see: we’ll use information that advertisers, businesses and other partners provide us about activity off meta company products that we have associated with you to personalize ads that we show you on our products, and on websites, apps and devices that use our advertising services
+
+53. the actual information we use depends on your factual circumstances, but could include any of the following: your activity and information you provide: information and content you provide, such as your name or email address information from partners, vendors and third parties sharing information with third parties at your request why and how we process your information: sharing your contact, profile or other information with third parties upon your re‐ quest: the type of third party and categories of information shared depend on the circumstances of what you ask us to share
+
+54. the actual information we use depends on your factual circumstances, but could include any of the following: your activity and information you provide: information such as your contact or profile information content you create, like posts or comments providing measurement, analytics and business services why and how we process your information: providing measurement, analytics and business services: our systems automatically, as well as with some manual (human) processing, process information we have collected and stored about you and others
+
+55. business intelligence and analytics why and how we process your information: business intelligence and analytics: to understand, in aggregate, your usage of and across our products, to ac‐ curately count people and businesses; and to validate metrics directly related to these, in order to inform and improve product direction and development and to adhere to (shareholder/earning) reporting obligations
+
+56. com/privacy/policy/printable/version/25862970456621906/ 85/97 5/7/26, 3:48 pm meta privacy policy - how meta collects and uses user data the time, frequency and duration of your activities on our products friends, followers and other connections app, browser and device information: device characteristics and device software what you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots) identifiers that tell your device apart from other users' device signals information you’ve shared through your device settings location-related information information about the network you connect your device to, including your ip address information from cookies and similar technologies information from partners, vendors and third parties personalizing ads on meta audience network why and how we process your information: identifying you as a meta product user and personalizing the ads we show you through meta audience network when you visit other apps: when we show you ads through meta audience network when you visit oth‐ er apps, our systems automatically process the information we have collect‐ ed and stored about you and others to identify you as a meta product user and tailor the ads you see
+
+57. we support research in areas like artificial intelligence and machine learning
+
+58. we try to predict your ad interests based on the information we have, including any choices you've made in ad preferences
+
+59. to do this, we use algorithms and machine learning to order the ads we may show you
+

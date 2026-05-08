@@ -1,0 +1,54 @@
+=== SNAPCHAT — Sentences containing algorithmic language ===
+
+1. for example, we process your information to provide you a more personalized experience, including to show you content and information that is most relevant to your experience, as well as more relevant advertisements
+
+2. furthermore, we believe a personalized experience should not come at the expense of your privacy
+
+3. we try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalized experience, you can change your advertising settings in the snapchat app
+
+4. when you set up your profile, you’ll also provide us with profile details (like your bitmoji and profile picture)
+
+5. of course, you’ll also provide us with information you send through or save within our services, including content and information about that content, and content you share and generate with our ai features (content, or “inputs,” including text, images, video, audio, precise location, and engagement, used to generate content and responses, or “outputs”)
+
+6. on the other end of the spectrum, some of the information you send through or save within our services may be public content that is accessible to everyone (such as public story content, including my story set to everyone, shared stories, and community stories, spotlight or snap map submissions, and public profile information)
+
+7. this includes usage information (information about how you interact with our services — for example, which lenses you view and apply, your premium subscriptions, stories you watch, and how often you interact with other snapchatters) and content information (information about content you create or provide, your engagement with the camera and creative tools, your interactions with my ai, and metadata — for example, information about the content itself like the date and time it was posted and who viewed it)
+
+8. among other things, we use the information we collect to provide you with personalized products and services that we work hard to build and improve
+
+9. personalize your experience & give context we offer personalized services to snapchatters
+
+10. personalization can also help with suggesting friends or recommending a new friend to send a snap to based on who you snap with the most
+
+11. we may show recommended places on the snap map, generate stickers, or even generate snaps and other content using ai, infer your interests based on your content or activity, or customize the content we show you, including ads
+
+12. personalization also includes tailoring your experience based on who you interact with most and what your friends are doing, including showing you content your friends create, like, or enjoy on spotlight or place recommendations that are popular with your friends
+
+13. for example, if you watch a lot of sports content, but skip content with hair and makeup tips, our recommendation algorithms will prioritize sports, but not those makeup tips
+
+14. we believe it is critical to also balance the benefits of personalization with our snapchatters’ expectations of privacy
+
+15. , the snap contained a dog), and then use that tag to personalize your experience, make recommendations, or show you ads (such as showing you spotlight snaps containing dogs)
+
+16. we do not use the private content and communications you send to your friends to personalize your experience, make recommendations, or show you ads
+
+17. provide relevant ads another way we provide a personalized service is through the ads we show
+
+18. we use your interests and preferences from the information we’ve collected to personalize, target, and measure ads
+
+19. for example, if you’ve interacted with ads for video games, we will infer that you like video games, and show you similar ads, but those won’t be the only ads you see
+
+20. develop & improve features, algorithms & machine learning models our teams are constantly coming up with new ideas for features and ways to improve our services
+
+21. in order to do this, we also develop and improve the algorithms and machine learning models (an expression of an algorithm that combs through significant amounts of data to find patterns or make predictions) that make our features and services work, including through generative ai features (artificial intelligence capable of generating text, images, or other media, using generative models
+
+22. we use algorithms and machine learning models for personalization, advertising, safety and security, fairness and inclusivity, augmented reality, and to prevent abuse or other terms of service violations
+
+23. for example, our algorithms and machine learning models take into account the conversations snapchatters are having with my ai to improve the responses from my ai
+
+24. , new machine learning models or hardware, such as spectacles)
+
+25. other purposes, with your permission additionally, there may be instances when you interact with our services that we will ask for your permission to use your information in a new, different, or otherwise specific way
+
+26. most of the features on snapchat are private and for friends only, but we also offer public features that allow you to opt in to showcase your best snaps to the world, such as spotlight, snap map, or your public profile
+

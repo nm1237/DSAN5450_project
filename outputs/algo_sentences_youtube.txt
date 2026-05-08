@@ -1,0 +1,72 @@
+=== YOUTUBE — Sentences containing algorithmic language ===
+
+1. your activity we collect information about your activity in our services, which we use to do things like recommend a youtube video you might like
+
+2. for example, if your name appears in your local newspaper, google’s search engine may index that article and display it to other people if they search for your name
+
+3. provide personalized services, including content and ads we use the information we collect to customize our services for you, including providing recommendations, personalized content, and customized search results
+
+4. depending on your settings, we may also show you personalized ads based on your interests and activity across google services
+
+5. we don’t show you personalized ads based on sensitive categories , such as race, religion, sexual orientation, or health
+
+6. we don’t show you personalized ads based on your content from drive, gmail, or photos
+
+7. we use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services
+
+8. we also use algorithms to recognize patterns in data
+
+9. we’ll ask for your consent before using your information for a purpose that isn’t covered in this privacy policy
+
+10. we also built a place for you to review and control information saved in your google account
+
+11. for example, if you have youtube history turned on, the videos you watch and the things you search for are saved in your account so you can get better recommendations and remember where you left off
+
+12. and if you have web & app activity turned on, your searches and activity from other google services are saved in your account so you can get more personalized experiences like faster searches and more helpful app and content recommendations
+
+13. go to about you shared endorsements choose whether your name and photo appear next to your activity, like reviews and recommendations, that appear in ads
+
+14. go to personal info when you’re signed out, you can manage information associated with your browser or device, including: signed-out search personalization: choose whether your search activity is used to offer you more relevant results and recommendations
+
+15. we’ll ask for your explicit consent to share any sensitive personal information
+
+16. many of these laws also provide the right to opt out of certain forms of profiling and targeted advertising
+
+17. you can also control what information we use to show you ads, or turn off personalized ads, by visiting my ad center
+
+18. inferences drawn from the above, like your ads interest categories
+
+19. we always indicate the date the last changes were published and we offer access to archived versions for your review
+
+20. other useful resources the following links highlight useful resources for you to learn more about our practices and privacy settings
+
+21. your google account is home to many of the settings you can use to manage your account privacy checkup guides you through key privacy settings for your google account google’s safety center helps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online google’s teen privacy guide provides answers to some of the top questions we get asked about privacy privacy & terms provides more context regarding this privacy policy and our terms of service technologies includes more information about: how google uses cookies technologies used for advertising how google uses information from sites or apps that use our services key terms affiliates an affiliate is an entity that belongs to the google group of companies, including the following companies that provide consumer services in the eu: google ireland limited, google commerce ltd, google payment corp, and google dialer inc
+
+22. algorithm a process or set of rules followed by a computer in performing problem-solving operations
+
+23. unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising
+
+24. for example, a device’s unique identifier can be used to customize our service to your device or analyze device issues related to our services
+
+25. in some cases, areas that you have searched from in the past may be used to estimate a relevant location for your search
+
+26. customized search results for example, when you’re signed in to your google account and have the web & app activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other google services
+
+27. you may also get customized search results even when you’re signed out
+
+28. if you don’t want this level of search customization, you can search and browse privately or turn off signed-out search personalization
+
+29. learn more our users for example, to prevent abuse and increase transparency and accountability over our online content moderation practices, google shares data about requests for removal of content from our services with lumen, which collects and analyzes these requests to facilitate research to help internet users understand their rights
+
+30. personalized ads you may also see personalized ads based on information from the advertiser
+
+31. rely on cookies to function properly for example, we use a cookie called ‘lbcs’ that makes it possible for you to open many google docs in one browser
+
+32. learn more sensitive categories when showing you personalized ads, we use topics that we think might be of interest to you based on your activity
+
+33. ” we don’t use topics or show personalized ads based on sensitive categories like race, religion, sexual orientation, or health
+
+34. we may also process your information if people search for your name and we display search results for sites containing publicly available information about you
+
+35. learn more the google app can use data that you have stored in other google products to show you personalized content, depending on your settings
+

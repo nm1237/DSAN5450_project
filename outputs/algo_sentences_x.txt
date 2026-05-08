@@ -1,0 +1,54 @@
+=== X — Sentences containing algorithmic language ===
+
+1. you can also choose to share your location in your profile and posts, and to upload your address book to x to help find people you may know
+
+2. your profile information, which includes your display name and username, is always public, but you can use either your real name or a pseudonym
+
+3. â we may collect and use your personal information (such as your biographical information, employment history, educational history, employment preferences, skills and abilities, and job search activity and engagement, in addition to the information we already collect as disclosed in the âinformation we collect when you use xâ section of our privacy policy below) to recommend potential jobs to you, to share with potential employers when you apply for a job, to enable connections for professional opportunities, and to show you more relevant advertising
+
+4. we may collect or receive information that we use to infer your identity as detailed below: when you sign into x on a browser or device, we will associate that browser or device with your account
+
+5. subject to your settings, we may also use this information in order to infer other information about you and/or your identity, for example by associating your account with hashes of email addresses that share common components with the email address you have provided to x
+
+6. when you access x and are not signed in, we may infer your identity based on the information we collect
+
+7. information shared by ad partners and affiliates or collected by x from the websites and apps of ad partners and affiliates may be combined with the other information you share with x and that x receives, generates, or infers about you described elsewhere in this privacy policy
+
+8. 1 operate, improve, and personalize our services
+
+9. we also use the information we collect to improve and personalize our products and services so that you have a better experience on x, including by showing you more relevant content and ads, suggesting people and topics to follow, enabling and helping you discover affiliates , third-party apps, and services
+
+10. we may use the information we collect and publicly available information to help train our machine learning or artificial intelligence models for the purposes outlined in this policy
+
+11. information shared by ad partners and affiliates or collected by x from the websites and apps of ad partners and affiliates may be combined with the other information you share with x and that x receives, generates, or infers about you, as described elsewhere in our privacy policy
+
+12. x content, including your profile information (e
+
+13. , name/pseudonym, username, profile pictures), is available for viewing by the general public
+
+14. advertisers may learn information from your engagement with their ads on or off x
+
+15. if you do not opt out, in some instances the recipients of the information may use it for their own independent purposes in addition to those stated in xâs privacy policy, including, for example, to train their artificial intelligence models, whether generative or otherwise
+
+16. we may also use different signals and your data to infer, preserve, use, share, or disclose your age and identity information in order to comply with regulatory requirements as well as for safety, security, fraud, know-your-customer, know-your-business, and identity verification, as the case may be
+
+17. for example: we keep your profile information, such as your display name, user name, password and email address for the duration of your account
+
+18. we generally collect device information, location information, inferred identity information and log information using cookies
+
+19. you can access, correct, or modify the information you provided to us by editing your profile and adjusting your account settings
+
+20. you can learn more about the information we have collected or inferred about you in your x data and request access to additional information here
+
+21. when deactivated, your x account, including your display name, username, and public profile, will no longer be viewable on x
+
+22. if you change your settings it may take some time for your choices to be fully reflected throughout our systems
+
+23. 2 we move your data to make x work for you
+
+24. x strives to make the translations as accurate as possible to the original english version
+
+25. if you live in the united states or any other country outside of the european union, efta states, or the united kingdom, the data controller responsible for your personal data is x corp
+
+26. attn: privacy policy inquiry 865 fm 1209, building 2â bastrop, tx 78602 if you live in the european union, efta states, or the united kingdom, the data controller responsible for your personal data is x internet unlimited company, with an address of: x internet unlimited company attn: data protection officer one cumberland place, fenian street dublin 2, d02 ax07 ireland if you live in switzerland, you can also contact our appointed representative at the following address: x switzerland gmbh attn: data protection officer c/o wasag treuhand ag normannenstrasse 8 postfach 783 3018 bern, switzerland if you wish to raise a concern about our data processing practices , you have the right to do so with your local supervisory authority or x internet unlimited companyâs lead supervisory authority, the irish data protection commission, using the contact details listed on their website
+
