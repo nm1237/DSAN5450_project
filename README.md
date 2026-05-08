@@ -12,7 +12,7 @@
 ```
 5450 Final Project/
 ├── data/
-│   └── raw/                      # Scraped .txt files (one per platform)
+│   └── raw/                      # Scraped .txt files and Meta PDF (one per platform)
 ├── outputs/                      # Figures, CSVs, and extracted sentence files
 ├── index.qmd                     # Quarto source document (full paper)
 ├── index.html                    # Rendered HTML (self-contained)
